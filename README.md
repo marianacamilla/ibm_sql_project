@@ -1,4 +1,4 @@
-# Final Project of the IBM Professional Certificate in SQL course.
+# Project of the IBM Professional Certificate in SQL course.
 
 Welcome to my final project for the IBM Professional Certificate in SQL course! In this repository, you will find the outcome of my efforts and learning throughout the course, focusing on SQL queries and database manipulation.
 
